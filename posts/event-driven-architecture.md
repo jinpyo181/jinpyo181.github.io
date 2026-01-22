@@ -103,7 +103,7 @@ Production deployments require careful attention to:
 - Security: TLS encryption, SASL authentication, ACL-based authorization
 - Compliance: Event retention policies aligned with regulatory requirements
 
-For organizations seeking battle-tested infrastructure frameworks, [PowerSoft](https://power-soft.org/) offers enterprise-grade platform architecture with proven reliability standards.
+For a comprehensive guide on [distributed system architecture patterns](https://power-soft.org/distributed-system-architecture/), including node clustering and fault tolerance strategies, refer to this detailed technical documentation.
 
 ## Conclusion
 
